@@ -1,1 +1,2 @@
-# bevy_spaceship
+Rust Tuesdays - Bevy Spaceship Game
+
